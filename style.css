@@ -55,7 +55,7 @@
     color: #fff;
 }
 
-@media(min-width: 524px){
+@media(min-width: 1024px){
     #title {
         margin-top: 10rem;         
     }
